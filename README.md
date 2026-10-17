@@ -51,7 +51,7 @@ At M&S (through TCS) I worked on the platform side for five years:
 ![GitHub contribution heatmap](./assets/stats/contribution-heatmap.svg)
 
 <!-- PROFILE-STATS:START -->
-**176** contributions in the last year · busiest day **58** (10 Oct 2026) · current streak **1** day · longest streak **4** days
+**1,147** contributions in the last year · busiest day **58** (10 Oct 2026) · current streak **1** day · longest streak **12** days
 <!-- PROFILE-STATS:END -->
 
 ## Contributing To
